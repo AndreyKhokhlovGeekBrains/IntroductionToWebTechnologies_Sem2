@@ -1,0 +1,57 @@
+body{
+    background-color: aqua;
+}
+
+.MyPic{
+    width: 300px;
+}
+
+img{
+    margin-left: 50px;
+}
+
+.SoftSkillsPic{
+    width: 300px;
+}
+
+.header__link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.header__link:hover{
+    color: blue;
+}
+
+.header{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #2f2e41;
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+}
+
+.about__content{
+    display: flex;
+}
+
+.about__text{
+    padding: 15px;
+}
+
+.skills{
+    display: flex;
+}
+
+.skills_text{
+    padding: 15px;
+    display: inline-block;
+}
+
+ol{
+    display: block;
+}
